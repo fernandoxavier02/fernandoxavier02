@@ -34,8 +34,7 @@ My objective is to **reduce complexity, increase reliability and enable better d
 - Clear separation between domain logic, infrastructure and presentation
 - Designed to support finance teams, auditors and management
 
-Repository:  
-https://github.com/fernandoxavier02/IFRS15
+
 
 ---
 
@@ -46,8 +45,6 @@ https://github.com/fernandoxavier02/IFRS15
 - Asset and liability calculation logic aligned with IFRS 16
 - Foundation for scalable lease accounting automation
 
-Repository:  
-https://github.com/fernandoxavier02/IFRS-16
 
 ---
 
@@ -57,8 +54,6 @@ https://github.com/fernandoxavier02/IFRS-16
 - Focus on expected credit loss logic
 - Designed as a base for future automation and analytics
 
-Repository:  
-https://github.com/fernandoxavier02/IFRS-09
 
 ---
 
@@ -70,9 +65,7 @@ https://github.com/fernandoxavier02/IFRS-09
 - AI-driven assistants for accounting and financial analysis
 - Integration-oriented design (email, workflows, systems)
 
-Examples:
-- https://github.com/fernandoxavier02/Reconex-Gen-AI-
-- https://github.com/fernandoxavier02/Reconcilia-o
+
 
 ---
 
