@@ -19,11 +19,12 @@ Building intelligent systems that solve real business problems — from AI agent
 **What we deliver:**
 - **Internal Agents & Operational Copilots** — multi-agent systems with task routing, dependency resolution, and autonomous execution
 - **System Integrations** — ERP, CRM, spreadsheets, APIs, files — connecting what already exists
-- **MLOps & Semantic Search** — embedding pipelines, vector indexing, cosine similarity retrieval, sub-50ms inference
+- **MLOps & Predictive Analytics** — embedding pipelines, regression models, anomaly detection, financial forecasting, scenario analysis, and stress testing engines
+- **Enterprise Process Automation** — budget workflows, approval chains, financial close automation, and operational process orchestration
 - **Custom Internal Platforms & SaaS** — internal portals, MVPs, and governed enterprise applications
 - **Corporate Finance Platforms** — audit-ready accounting systems (IFRS 15, 16, 9), compliance engines, and financial reporting automation
 
-**Service areas:** Backoffice & Operations | Financial Approvals & Controls | Document Management & Compliance | Critical Integrations | Governed Agents
+**Service areas:** Backoffice & Operations | Financial Approvals & Controls | Document Management & Compliance | Critical Integrations | Governed Agents | Predictive Finance & Forecasting
 
 **How we start:**
 
@@ -56,13 +57,21 @@ Building intelligent systems that solve real business problems — from AI agent
 | [**FX Studio AI Copilot**](https://github.com/fernandoxavier02/fx-studio-ai-copilot) | FX Studio AI Marketplace — Superpowers + Pipeline Orchestrator for GitHub Copilot. | PowerShell |
 | [**Codex Superpower**](https://github.com/fernandoxavier02/Codex-superpower) | Agent orchestration framework adapted for OpenAI Codex CLI. | JavaScript |
 
+### MLOps & Predictive Finance
+
+| Project | Description | Domain |
+|---------|-------------|--------|
+| **IFRS 9 — ECL Models** | Expected credit loss prediction using regression and classification models — probability of default (PD), loss given default (LGD), exposure at default (EAD). Anomaly detection for portfolio risk signals. | Credit Risk / ML |
+| **Financial Forecasting Engine** | Predictive analytics for revenue, cash flow, and budget variance — time-series regression, scenario simulation, and Monte Carlo stress testing across multi-entity structures. | FP&A / Forecasting |
+| **Accounting Anomaly Detection** | ML-driven anomaly detection for accounting transactions — identifies outlier journal entries, unusual intercompany patterns, and reconciliation breaks before month-end close. | Audit / Compliance |
+| **Budget & Scenario Analysis** | Automated budget construction with what-if scenario modeling, sensitivity analysis, and stress testing for FX exposure, inflation, and interest rate shocks across LATAM entities. | Budget / Planning |
+
 ### Enterprise Finance & Accounting
 
 | Project | Description | Domain |
 |---------|-------------|--------|
 | **IFRS 15 Engine** | End-to-end revenue recognition platform — full five-step model, multi-tenant, audit-ready architecture. | Revenue Recognition |
 | **IFRS 16 Engine** | Lease accounting platform — ROU asset calculations, amortisation schedules, discount rate management, compliance reporting. | Lease Accounting |
-| **IFRS 9 Models** | Expected credit loss logic and impairment models — foundation for financial instruments automation. | Financial Instruments |
 | **Accounting Intelligence** | AI-powered accounting automation — transaction categorisation, intercompany matching, reconciliation. Eliminated 70% manual tasks across 5 LATAM entities. | Finance Automation |
 
 ---
@@ -72,14 +81,17 @@ Building intelligent systems that solve real business problems — from AI agent
 **AI & Agent Systems**
 `Multi-Agent Orchestration` `LLM Agent Architectures` `Claude Code Plugins` `Claude API / Anthropic SDK` `MCP (Model Context Protocol)` `Prompt Engineering` `Autonomous Workflows`
 
-**MLOps & Semantic Search**
-`HuggingFace Transformers` `Embedding Generation (all-MiniLM-L6-v2)` `Vector Indexing (384-dim)` `Cosine Similarity Retrieval` `Graph Search (BFS)` `Offline/Online Inference` `Latency-Constrained ML (<50ms)`
+**MLOps & Predictive Analytics**
+`HuggingFace Transformers` `Embedding Generation (all-MiniLM-L6-v2)` `Vector Indexing (384-dim)` `Cosine Similarity Retrieval` `Graph Search (BFS)` `Offline/Online Inference` `Latency-Constrained ML (<50ms)` `Predictive Financial Analytics` `Regression Models` `Accounting Anomaly Detection` `Revenue & Cash Flow Forecasting` `Scenario Analysis & Stress Testing` `Budget Variance Prediction`
 
 **Development**
 `Node.js` `TypeScript` `Python` `JavaScript` `NestJS` `Angular` `PostgreSQL` `Supabase` `Docker` `CI/CD` `Git/GitHub`
 
+**Enterprise Process Automation**
+`Budget Automation` `Financial Close Orchestration` `Approval Workflows` `ERP/CRM Integration` `Reconciliation Engines` `Operational Process Mapping` `RPA Design`
+
 **Finance & Compliance**
-`IFRS` `US GAAP` `BR GAAP` `Financial Close & Consolidation` `FP&A` `M&A Due Diligence` `Transfer Pricing` `Internal Controls` `Audit Management`
+`IFRS` `US GAAP` `BR GAAP` `Financial Close & Consolidation` `FP&A` `Budgeting & Forecasting` `M&A Due Diligence` `Transfer Pricing` `Internal Controls` `Audit Management`
 
 ---
 
