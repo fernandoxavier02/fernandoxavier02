@@ -1,106 +1,105 @@
-## # Fernando Xavier
+# Fernando Xavier
 
-### Accounting & Finance Executive | IFRS • US GAAP • AI-Driven Automation
+### AI Solutions Architect & Finance Executive | Founder @ FX Studio AI
 
-I am a senior Accounting and Finance executive with extensive experience in **IFRS, US GAAP and BR GAAP**, focused on applying **technology and artificial intelligence** to solve complex regulatory, financial and operational challenges.
+Building intelligent systems that solve real business problems — from AI agent orchestration and MLOps pipelines to enterprise accounting platforms and corporate automation.
 
-My work sits at the intersection of **accounting expertise, financial governance and software architecture**, with a strong emphasis on building scalable, audit-ready and business-oriented solutions.
-
-This GitHub profile is not a collection of experiments.  
-It represents **real-world systems, conceptual models and automation initiatives** designed for corporate environments.
+15+ years leading Finance & Controllership across Latin America (IFRS, US GAAP, BR GAAP), now applying that domain expertise to design and ship AI-powered solutions for corporate environments.
 
 ---
 
-## Executive Focus
+## FX Studio AI
 
-- Revenue recognition and contract accounting (IFRS 15)
-- Lease accounting and long-term obligations (IFRS 16)
-- Financial instruments and expected credit loss models (IFRS 9)
-- Accounting automation and reconciliation
-- AI agents applied to finance, accounting and decision support
-- Governance, auditability and regulatory compliance
+<img src="https://raw.githubusercontent.com/fernandoxavier02/fernandoxavier02/main/assets/fx-studio-ai-logo.png" alt="FX Studio AI" width="320"/>
 
-My objective is to **reduce complexity, increase reliability and enable better decisions** through well-designed systems.
+**B2B consulting firm** specialising in business automation with AI for enterprises that need to reduce rework, integrate systems, and structure operations intelligently.
 
----
+**[fxstudioai.com](https://fxstudioai.com)** | contato@fxstudioai.com
 
-## Selected Initiatives
+**What we deliver:**
+- **Internal Agents & Operational Copilots** — multi-agent systems with task routing, dependency resolution, and autonomous execution
+- **System Integrations** — ERP, CRM, spreadsheets, APIs, files — connecting what already exists
+- **MLOps & Semantic Search** — embedding pipelines, vector indexing, cosine similarity retrieval, sub-50ms inference
+- **Custom Internal Platforms & SaaS** — internal portals, MVPs, and governed enterprise applications
+- **Corporate Finance Platforms** — audit-ready accounting systems (IFRS 15, 16, 9), compliance engines, and financial reporting automation
 
-### IFRS 15 – Revenue Recognition Platform  
-**End-to-end revenue recognition system designed for enterprise use**
+**Service areas:** Backoffice & Operations | Financial Approvals & Controls | Document Management & Compliance | Critical Integrations | Governed Agents
 
-- Full implementation of the IFRS 15 five-step model
-- Multi-tenant, audit-ready architecture
-- Clear separation between domain logic, infrastructure and presentation
-- Designed to support finance teams, auditors and management
+**How we start:**
 
-
-
----
-
-### IFRS 16 – Lease Accounting  
-**Structured approach to lease recognition and measurement**
-
-- Contract modeling and lease lifecycle management
-- Asset and liability calculation logic aligned with IFRS 16
-- Foundation for scalable lease accounting automation
-
+| Entry Point | Best For | Deliverable |
+|-------------|----------|-------------|
+| Diagnostic | Unclear scope | Flow mapping, impact hypotheses |
+| ROI Sprint | Business case approval | Payback analysis, risk assessment |
+| Pilot with Governance | Clear problem, high urgency | Small, testable deliverable |
 
 ---
 
-### IFRS 9 – Financial Instruments  
-**Conceptual and technical groundwork for ECL and impairment models**
+## Featured Projects
 
-- Focus on expected credit loss logic
-- Designed as a base for future automation and analytics
+### AI Agents & Orchestration
 
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Skill Advisor**](https://github.com/fernandoxavier02/skill-advisor) | Intelligent toolchain orchestrator — scans 200+ skills, plugins, MCP servers, and agents; recommends optimal combinations with 3-layer search (semantic + graph BFS + keyword). Pre-computed 384-dim embeddings for sub-50ms cold-start. | Node.js, HuggingFace Transformers |
+| [**Pipeline Orchestrator**](https://github.com/fernandoxavier02/Pipeline-Orchestrator) | Multi-agent task execution engine — auto-classifies tasks, executes in adaptive batches with parallel sub-agents. Supports bug fixes, features, refactoring, and deployment workflows. | JavaScript |
+| [**FX Studio AI Marketplace**](https://github.com/fernandoxavier02/FX-Studio-AI) | Plugin marketplace for Claude Code — curated collection of AI agent skills, orchestration tools, and developer productivity extensions. | JavaScript |
+| [**CC Mastery**](https://github.com/fernandoxavier02/cc-mastery) | Claude Code mastery plugin — expert routing, health diagnostics, context maintenance, and developer productivity suite (12 skills). | Python |
+
+### Multi-Platform Agent Frameworks
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Superpowers**](https://github.com/fernandoxavier02/superpowers) | Agentic skills framework & software development methodology — structured agent workflows that actually ship. | Shell |
+| [**Context Engineering (Gemini)**](https://github.com/fernandoxavier02/Context-engineering-gemini) | Context engineering toolkit ported to Google Gemini ecosystem. | Python |
+| [**Superpower Gemini**](https://github.com/fernandoxavier02/Superpower-Gemini) | Superpowers framework adapted for Gemini agents. | Python |
+| [**FX Studio AI Copilot**](https://github.com/fernandoxavier02/fx-studio-ai-copilot) | FX Studio AI Marketplace — Superpowers + Pipeline Orchestrator for GitHub Copilot. | PowerShell |
+| [**Codex Superpower**](https://github.com/fernandoxavier02/Codex-superpower) | Agent orchestration framework adapted for OpenAI Codex CLI. | JavaScript |
+
+### Enterprise Finance & Accounting
+
+| Project | Description | Domain |
+|---------|-------------|--------|
+| **IFRS 15 Engine** | End-to-end revenue recognition platform — full five-step model, multi-tenant, audit-ready architecture. | Revenue Recognition |
+| **IFRS 16 Engine** | Lease accounting platform — ROU asset calculations, amortisation schedules, discount rate management, compliance reporting. | Lease Accounting |
+| **IFRS 9 Models** | Expected credit loss logic and impairment models — foundation for financial instruments automation. | Financial Instruments |
+| **Accounting Intelligence** | AI-powered accounting automation — transaction categorisation, intercompany matching, reconciliation. Eliminated 70% manual tasks across 5 LATAM entities. | Finance Automation |
 
 ---
 
-### Accounting Automation & AI  
-**Automation and intelligent agents applied to finance operations**
+## Technical Expertise
 
-- Automated accounting reconciliations
-- Data extraction and classification
-- AI-driven assistants for accounting and financial analysis
-- Integration-oriented design (email, workflows, systems)
+**AI & Agent Systems**
+`Multi-Agent Orchestration` `LLM Agent Architectures` `Claude Code Plugins` `Claude API / Anthropic SDK` `MCP (Model Context Protocol)` `Prompt Engineering` `Autonomous Workflows`
 
+**MLOps & Semantic Search**
+`HuggingFace Transformers` `Embedding Generation (all-MiniLM-L6-v2)` `Vector Indexing (384-dim)` `Cosine Similarity Retrieval` `Graph Search (BFS)` `Offline/Online Inference` `Latency-Constrained ML (<50ms)`
 
+**Development**
+`Node.js` `TypeScript` `Python` `JavaScript` `NestJS` `Angular` `PostgreSQL` `Supabase` `Docker` `CI/CD` `Git/GitHub`
+
+**Finance & Compliance**
+`IFRS` `US GAAP` `BR GAAP` `Financial Close & Consolidation` `FP&A` `M&A Due Diligence` `Transfer Pricing` `Internal Controls` `Audit Management`
 
 ---
 
 ## Philosophy
 
-Accounting standards will continue to evolve.  
-Operational pressure will continue to increase.
+Technology creates value only when it serves real business needs.
 
-The role of technology is not to replace judgment, but to **free professionals from repetitive tasks**, improve consistency and provide **clear, traceable and reliable information**.
+I build systems that are **technically robust, transparent, and auditable** — whether it's an AI agent routing tasks across 200 tools or a compliance engine handling multi-country IFRS reporting.
 
-I believe high-quality accounting and finance functions must be:
-- technically robust  
-- transparent and auditable  
-- supported by intelligent automation  
+The best solutions sit at the intersection of **domain expertise and engineering craft**.
 
 ---
 
-## Technology Stack (High Level)
+## Connect
 
-- Backend: TypeScript, Node.js, NestJS
-- Frontend: Angular
-- Databases: PostgreSQL (including Row-Level Security)
-- Infrastructure: Docker, CI/CD pipelines
-- AI: Generative models and autonomous agents
-- Governance: RBAC, audit logs, observability
+[![Website](https://img.shields.io/badge/fxstudioai.com-000000?style=flat&logo=google-chrome&logoColor=white)](https://fxstudioai.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fernandoxavier02-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/fernandoxavier02)
+[![GitHub](https://img.shields.io/badge/GitHub-fernandoxavier02-181717?style=flat&logo=github)](https://github.com/fernandoxavier02)
+[![Email](https://img.shields.io/badge/contato@fxstudioai.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contato@fxstudioai.com)
 
 ---
 
-## Contact
-
-This GitHub profile reflects my professional interests, research and applied projects.
-
-For executive-level discussions, collaborations or strategic conversations,  
-please connect via LinkedIn.
-
----
-
-*Technology creates value only when it serves real business needs.*
+*Founder @ [FX Studio AI](https://fxstudioai.com) — Business Automation with AI*
