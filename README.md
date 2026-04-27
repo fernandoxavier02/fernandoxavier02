@@ -17,7 +17,10 @@ Building intelligent systems that solve real business problems — from AI agent
 
 ## FX Studio AI
 
-<img src="https://raw.githubusercontent.com/fernandoxavier02/fernandoxavier02/main/assets/fx-studio-ai-logo.png" alt="FX Studio AI" width="320"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/branding/05-mark-only-dark.png">
+  <img src="assets/branding/06-mark-only-light.png" alt="FX Studio AI" width="320">
+</picture>
 
 **B2B consulting firm** specialising in business automation with AI for enterprises that need to reduce rework, integrate systems, and structure operations intelligently.
 
@@ -79,7 +82,7 @@ Building intelligent systems that solve real business problems — from AI agent
 |---------|-------------|--------|
 | [**IFRS 15 Engine**](https://github.com/fernandoxavier02/case-studies/blob/main/ifrs-15-revenue-recognition.md) | End-to-end revenue recognition platform — full five-step model, multi-tenant Row Level Security, OIDC/RBAC, OpenTelemetry. NestJS + Angular 17 + PostgreSQL. | Revenue Recognition |
 | [**IFRS 16 Engine**](https://github.com/fernandoxavier02/case-studies/blob/main/ifrs-16-lease-accounting.md) — *[live](https://ifrs16-calculator.web.app)* | Lease accounting SaaS in production — ROU asset calculations, Stripe subscription billing, multi-tenant licensing. FastAPI + Cloud Run + Firebase. | Lease Accounting |
-| [**Accounting Intelligence**](https://github.com/fernandoxavier02/case-studies/blob/main/accounting-intelligence-forvis-mazars.md) | AI agentic workflow product (Microsoft + GPT) at Forvis Mazars — 70% manual task reduction, 40% faster reporting cycles for 100+ accounting professionals. | Finance Automation |
+| [**Accounting Intelligence**](https://github.com/fernandoxavier02/case-studies/blob/main/accounting-intelligence-bpo.md) | AI agentic workflow product (Microsoft + GPT) at a Big Four BPO — 70% manual task reduction, 40% faster reporting cycles for 100+ accounting professionals. | Finance Automation |
 
 📂 **Full case studies repo:** [github.com/fernandoxavier02/case-studies](https://github.com/fernandoxavier02/case-studies) — architecture, decisions, and outcomes for AI/finance projects.
 
