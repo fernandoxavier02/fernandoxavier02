@@ -13,6 +13,8 @@ Building intelligent systems that solve real business problems — from AI agent
 
 15+ years leading Finance & Controllership across Latin America (IFRS, US GAAP, BR GAAP), now applying that domain expertise to design and ship AI-powered solutions for corporate environments.
 
+> **Currently:** leading accounting transformation at a Big Four BPO practice. **In parallel:** building **FX Studio AI** as a B2B consulting firm focused on AI-driven finance automation. **Open to:** product and AI-engineering roles at fintechs and AI-first companies where domain expertise and shipping velocity compound.
+
 ---
 
 ## FX Studio AI
