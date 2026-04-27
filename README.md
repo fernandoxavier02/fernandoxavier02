@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/branding-01-horizontal-dark.png">
+    <img src="assets/branding-02-horizontal-light.png" alt="FX Studio AI" width="640">
+  </picture>
+</p>
+
 # Fernando Xavier
 
 ### AI Solutions Architect & Finance Executive | Founder @ FX Studio AI
@@ -61,18 +68,35 @@ Building intelligent systems that solve real business problems — from AI agent
 
 | Project | Description | Domain |
 |---------|-------------|--------|
-| **IFRS 9 — ECL Models** | Expected credit loss prediction using regression and classification models — probability of default (PD), loss given default (LGD), exposure at default (EAD). Anomaly detection for portfolio risk signals. | Credit Risk / ML |
-| **Financial Forecasting Engine** | Predictive analytics for revenue, cash flow, and budget variance — time-series regression, scenario simulation, and Monte Carlo stress testing across multi-entity structures. | FP&A / Forecasting |
-| **Accounting Anomaly Detection** | ML-driven anomaly detection for accounting transactions — identifies outlier journal entries, unusual intercompany patterns, and reconciliation breaks before month-end close. | Audit / Compliance |
-| **Budget & Scenario Analysis** | Automated budget construction with what-if scenario modeling, sensitivity analysis, and stress testing for FX exposure, inflation, and interest rate shocks across LATAM entities. | Budget / Planning |
+| [**IFRS 9 — ECL Models**](https://github.com/fernandoxavier02/case-studies/blob/main/ifrs-9-ecl-models.md) | Expected credit loss prediction using regression and classification models — probability of default (PD), loss given default (LGD), exposure at default (EAD). Anomaly detection for portfolio risk signals. | Credit Risk / ML |
+| [**Financial Forecasting Engine**](https://github.com/fernandoxavier02/case-studies/blob/main/financial-forecasting-engine.md) | Predictive analytics for revenue, cash flow, and budget variance — time-series regression, scenario simulation, and Monte Carlo stress testing across multi-entity structures. | FP&A / Forecasting |
+| [**Accounting Anomaly Detection**](https://github.com/fernandoxavier02/case-studies/blob/main/accounting-anomaly-detection.md) | ML-driven anomaly detection for accounting transactions — Mistral 7B local LLM with confidence-graded fix suggestions and human-in-the-loop conversational CLI. | Audit / Compliance |
+| [**Budget & Scenario Analysis**](https://github.com/fernandoxavier02/case-studies/blob/main/budget-scenario-analysis.md) | Automated budget construction with what-if scenario modeling, sensitivity analysis, and stress testing for FX exposure, inflation, and interest rate shocks across LATAM entities. | Budget / Planning |
 
 ### Enterprise Finance & Accounting
 
 | Project | Description | Domain |
 |---------|-------------|--------|
-| **IFRS 15 Engine** | End-to-end revenue recognition platform — full five-step model, multi-tenant, audit-ready architecture. | Revenue Recognition |
-| **IFRS 16 Engine** | Lease accounting platform — ROU asset calculations, amortisation schedules, discount rate management, compliance reporting. | Lease Accounting |
-| **Accounting Intelligence** | AI-powered accounting automation — transaction categorisation, intercompany matching, reconciliation. Eliminated 70% manual tasks across 5 LATAM entities. | Finance Automation |
+| [**IFRS 15 Engine**](https://github.com/fernandoxavier02/case-studies/blob/main/ifrs-15-revenue-recognition.md) | End-to-end revenue recognition platform — full five-step model, multi-tenant Row Level Security, OIDC/RBAC, OpenTelemetry. NestJS + Angular 17 + PostgreSQL. | Revenue Recognition |
+| [**IFRS 16 Engine**](https://github.com/fernandoxavier02/case-studies/blob/main/ifrs-16-lease-accounting.md) — *[live](https://ifrs16-calculator.web.app)* | Lease accounting SaaS in production — ROU asset calculations, Stripe subscription billing, multi-tenant licensing. FastAPI + Cloud Run + Firebase. | Lease Accounting |
+| [**Accounting Intelligence**](https://github.com/fernandoxavier02/case-studies/blob/main/accounting-intelligence-forvis-mazars.md) | AI agentic workflow product (Microsoft + GPT) at Forvis Mazars — 70% manual task reduction, 40% faster reporting cycles for 100+ accounting professionals. | Finance Automation |
+
+📂 **Full case studies repo:** [github.com/fernandoxavier02/case-studies](https://github.com/fernandoxavier02/case-studies) — architecture, decisions, and outcomes for AI/finance projects.
+
+---
+
+### Cross-Platform AI Suite
+
+The same agentic frameworks ported across four AI coding platforms — install once on the platform you use.
+
+| Framework | Claude Code | GitHub Copilot | OpenAI Codex | Google Gemini |
+|---|---|---|---|---|
+| **Pipeline Orchestrator** | [✓ flagship](https://github.com/fernandoxavier02/Pipeline-Orchestrator) | [✓](https://github.com/fernandoxavier02/Pipeline-Orchestrator-for-Copilot) | private | [✓](https://github.com/fernandoxavier02/pipeline-orchestrator-gemini) |
+| **Superpowers** | [✓ fork w/ improvements](https://github.com/fernandoxavier02/superpowers) | [✓](https://github.com/fernandoxavier02/Superpowers-copilot) | [✓](https://github.com/fernandoxavier02/Codex-superpower) | [✓](https://github.com/fernandoxavier02/Superpower-Gemini) |
+| **Context Engineering** | [✓](https://github.com/fernandoxavier02/engineering-context) | — | — | [✓](https://github.com/fernandoxavier02/Context-engineering-gemini) |
+| **FX Studio AI Marketplace** | [✓](https://github.com/fernandoxavier02/FX-Studio-AI) | [✓](https://github.com/fernandoxavier02/fx-studio-ai-copilot) | — | — |
+
+Each port is its own production package — same underlying methodology, adapted to the platform's plugin/skill conventions.
 
 ---
 
