@@ -82,7 +82,7 @@ Production-grade financial systems rebuilt as public showcases. Each includes ar
 
 ### [`Brazilian Tax Reform Oracle`](https://github.com/fernandoxavier02/brazilian-tax-reform-oracle-showcase)
 
-<img src="https://github.com/fernandoxavier02/brazilian-tax-reform-oracle-showcase/raw/master/assets/screenshots/01-oracle-chat.png" width="100%" style="border-radius:8px"/>
+<img src="https://github.com/fernandoxavier02/brazilian-tax-reform-oracle-showcase/raw/master/assets/screenshots/01-visao-geral-reforma.png" width="100%" style="border-radius:8px"/>
 
 **RAG system for tax law queries** with local LLM (Llama 3), official source citations, and 100% privacy — zero cloud calls.
 
