@@ -1,146 +1,137 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/branding-01-horizontal-dark.png">
-    <img src="assets/branding-02-horizontal-light.png" alt="FX Studio AI" width="640">
-  </picture>
+<div align="center">
+
+<!-- Dynamic Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f766e&height=200&section=header&text=Fernando%20Xavier&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Finance%20Executive%20%7C%20AI%20Solutions%20Architect&descAlignY=55&descSize=18"/>
+
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/ACCA-Cert%20IFR-1e3a5f?style=for-the-badge&logo=acca&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CFI-FMVA-0f766e?style=for-the-badge&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MBA-FGV%20Corporate%20Finance-1e3a5f?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 </p>
 
-# Fernando Xavier
+<p>
+  <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo-BR-1e3a5f?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PT-Nativo-0f766e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/EN-C2-0f766e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ES-C1-0f766e?style=flat-square"/>
+</p>
 
-### AI Solutions Architect & Finance Executive | Founder @ FX Studio AI
-
-Building intelligent systems that solve real business problems — from AI agent orchestration and MLOps pipelines to enterprise accounting platforms and corporate automation.
-
-15+ years leading Finance & Controllership across Latin America (IFRS, US GAAP, BR GAAP), now applying that domain expertise to design and ship AI-powered solutions for corporate environments.
-
-> **Currently:** leading accounting transformation at a Big Four BPO practice. **In parallel:** building **FX Studio AI** as a B2B consulting firm focused on AI-driven finance automation. **Open to:** product and AI-engineering roles at fintechs and AI-first companies where domain expertise and shipping velocity compound.
-
----
-
-## FX Studio AI
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/branding/05-mark-only-dark.png">
-  <img src="assets/branding/06-mark-only-light.png" alt="FX Studio AI" width="320">
-</picture>
-
-**B2B consulting firm** specialising in business automation with AI for enterprises that need to reduce rework, integrate systems, and structure operations intelligently.
-
-**[fxstudioai.com](https://fxstudioai.com)** | contato@fxstudioai.com
-
-**What we deliver:**
-- **Internal Agents & Operational Copilots** — multi-agent systems with task routing, dependency resolution, and autonomous execution
-- **System Integrations** — ERP, CRM, spreadsheets, APIs, files — connecting what already exists
-- **MLOps & Predictive Analytics** — embedding pipelines, regression models, anomaly detection, financial forecasting, scenario analysis, and stress testing engines
-- **Enterprise Process Automation** — budget workflows, approval chains, financial close automation, and operational process orchestration
-- **Custom Internal Platforms & SaaS** — internal portals, MVPs, and governed enterprise applications
-- **Corporate Finance Platforms** — audit-ready accounting systems (IFRS 15, 16, 9), compliance engines, and financial reporting automation
-
-**Service areas:** Backoffice & Operations | Financial Approvals & Controls | Document Management & Compliance | Critical Integrations | Governed Agents | Predictive Finance & Forecasting
-
-**How we start:**
-
-| Entry Point | Best For | Deliverable |
-|-------------|----------|-------------|
-| Diagnostic | Unclear scope | Flow mapping, impact hypotheses |
-| ROI Sprint | Business case approval | Payback analysis, risk assessment |
-| Pilot with Governance | Clear problem, high urgency | Small, testable deliverable |
+</div>
 
 ---
 
-## Featured Projects
+## 👋 About
 
-### AI Agents & Orchestration
+Finance executive with **15+ years** leading controllership, FP&A, and accounting transformation across Latin America (IFRS, US GAAP, BR GAAP). Now applying that domain expertise to design and ship **AI-powered solutions** for corporate finance — from revenue recognition engines to RAG-based tax research systems.
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Skill Advisor**](https://github.com/fernandoxavier02/skill-advisor) | Intelligent toolchain orchestrator — scans 200+ skills, plugins, MCP servers, and agents; recommends optimal combinations with 3-layer search (semantic + graph BFS + keyword). Pre-computed 384-dim embeddings for sub-50ms cold-start. | Node.js, HuggingFace Transformers |
-| [**Pipeline Orchestrator**](https://github.com/fernandoxavier02/Pipeline-Orchestrator) | Multi-agent task execution engine — auto-classifies tasks, executes in adaptive batches with parallel sub-agents. Supports bug fixes, features, refactoring, and deployment workflows. | JavaScript |
-| [**FX Studio AI Marketplace**](https://github.com/fernandoxavier02/FX-Studio-AI) | Plugin marketplace for Claude Code — curated collection of AI agent skills, orchestration tools, and developer productivity extensions. | JavaScript |
-| [**CC Mastery**](https://github.com/fernandoxavier02/cc-mastery) | Claude Code mastery plugin — expert routing, health diagnostics, context maintenance, and developer productivity suite (12 skills). | Python |
-
-### Multi-Platform Agent Frameworks
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Superpowers**](https://github.com/fernandoxavier02/superpowers) | Agentic skills framework & software development methodology — structured agent workflows that actually ship. | Shell |
-| [**Context Engineering (Gemini)**](https://github.com/fernandoxavier02/Context-engineering-gemini) | Context engineering toolkit ported to Google Gemini ecosystem. | Python |
-| [**Superpower Gemini**](https://github.com/fernandoxavier02/Superpower-Gemini) | Superpowers framework adapted for Gemini agents. | Python |
-| [**FX Studio AI Copilot**](https://github.com/fernandoxavier02/fx-studio-ai-copilot) | FX Studio AI Marketplace — Superpowers + Pipeline Orchestrator for GitHub Copilot. | PowerShell |
-| [**Codex Superpower**](https://github.com/fernandoxavier02/Codex-superpower) | Agent orchestration framework adapted for OpenAI Codex CLI. | JavaScript |
-
-### MLOps & Predictive Finance
-
-| Project | Description | Domain |
-|---------|-------------|--------|
-| [**IFRS 9 — ECL Models**](https://github.com/fernandoxavier02/case-studies/blob/main/ifrs-9-ecl-models.md) | Expected credit loss prediction using regression and classification models — probability of default (PD), loss given default (LGD), exposure at default (EAD). Anomaly detection for portfolio risk signals. | Credit Risk / ML |
-| [**Financial Forecasting Engine**](https://github.com/fernandoxavier02/case-studies/blob/main/financial-forecasting-engine.md) | Predictive analytics for revenue, cash flow, and budget variance — time-series regression, scenario simulation, and Monte Carlo stress testing across multi-entity structures. | FP&A / Forecasting |
-| [**Accounting Anomaly Detection**](https://github.com/fernandoxavier02/case-studies/blob/main/accounting-anomaly-detection.md) | ML-driven anomaly detection for accounting transactions — Mistral 7B local LLM with confidence-graded fix suggestions and human-in-the-loop conversational CLI. | Audit / Compliance |
-| [**Budget & Scenario Analysis**](https://github.com/fernandoxavier02/case-studies/blob/main/budget-scenario-analysis.md) | Automated budget construction with what-if scenario modeling, sensitivity analysis, and stress testing for FX exposure, inflation, and interest rate shocks across LATAM entities. | Budget / Planning |
-
-### Enterprise Finance & Accounting
-
-| Project | Description | Domain |
-|---------|-------------|--------|
-| [**IFRS 15 Engine**](https://github.com/fernandoxavier02/case-studies/blob/main/ifrs-15-revenue-recognition.md) | End-to-end revenue recognition platform — full five-step model, multi-tenant Row Level Security, OIDC/RBAC, OpenTelemetry. NestJS + Angular 17 + PostgreSQL. | Revenue Recognition |
-| [**IFRS 16 Engine**](https://github.com/fernandoxavier02/case-studies/blob/main/ifrs-16-lease-accounting.md) — *[live](https://ifrs16-calculator.web.app)* | Lease accounting SaaS in production — ROU asset calculations, Stripe subscription billing, multi-tenant licensing. FastAPI + Cloud Run + Firebase. | Lease Accounting |
-| [**Accounting Intelligence**](https://github.com/fernandoxavier02/case-studies/blob/main/accounting-intelligence-bpo.md) | AI agentic workflow product (Microsoft + GPT) at a Big Four BPO — 70% manual task reduction, 40% faster reporting cycles for 100+ accounting professionals. | Finance Automation |
-
-📂 **Full case studies repo:** [github.com/fernandoxavier02/case-studies](https://github.com/fernandoxavier02/case-studies) — architecture, decisions, and outcomes for AI/finance projects.
+> **Currently:** Leading accounting transformation at a Big Four BPO practice.  
+> **In parallel:** Building AI-driven finance automation tools.  
+> **Open to:** Finance + AI leadership roles where domain expertise and shipping velocity compound.
 
 ---
 
-### Cross-Platform AI Suite
+## 🏆 Featured Work
 
-The same agentic frameworks ported across four AI coding platforms — install once on the platform you use.
+Production-grade financial systems rebuilt as public showcases. Each includes architecture documentation, case studies, working prototypes, and real UI screenshots.
 
-| Framework | Claude Code | GitHub Copilot | OpenAI Codex | Google Gemini |
-|---|---|---|---|---|
-| **Pipeline Orchestrator** | [✓ flagship](https://github.com/fernandoxavier02/Pipeline-Orchestrator) | [✓](https://github.com/fernandoxavier02/Pipeline-Orchestrator-for-Copilot) | private | [✓](https://github.com/fernandoxavier02/pipeline-orchestrator-gemini) |
-| **Superpowers** | [✓ fork w/ improvements](https://github.com/fernandoxavier02/superpowers) | [✓](https://github.com/fernandoxavier02/Superpowers-copilot) | [✓](https://github.com/fernandoxavier02/Codex-superpower) | [✓](https://github.com/fernandoxavier02/Superpower-Gemini) |
-| **Context Engineering** | [✓](https://github.com/fernandoxavier02/engineering-context) | — | — | [✓](https://github.com/fernandoxavier02/Context-engineering-gemini) |
-| **FX Studio AI Marketplace** | [✓](https://github.com/fernandoxavier02/FX-Studio-AI) | [✓](https://github.com/fernandoxavier02/fx-studio-ai-copilot) | — | — |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Each port is its own production package — same underlying methodology, adapted to the platform's plugin/skill conventions.
+### [`IFRS 15 Revenue Intelligence`](https://github.com/fernandoxavier02/ifrs15-revenue-intelligence-showcase)
+
+<img src="https://github.com/fernandoxavier02/ifrs15-revenue-intelligence-showcase/raw/master/assets/screenshots/01-revenue-dashboard.png" width="100%" style="border-radius:8px"/>
+
+**5-step revenue recognition engine** with SSP allocation, waterfall analytics, and AI-powered natural language queries.
+
+`NestJS` `Angular 17` `PostgreSQL` `Prisma` `OpenTelemetry`
+
+**Impact:** 70% faster monthly close · 96% error reduction · 7× contract throughput
+
+</td>
+<td width="50%" valign="top">
+
+### [`IFRS 16 Lease Intelligence`](https://github.com/fernandoxavier02/ifrs16-lease-intelligence-showcase)
+
+<img src="https://github.com/fernandoxavier02/ifrs16-lease-intelligence-showcase/raw/master/assets/screenshots/01-lease-dashboard.png" width="100%" style="border-radius:8px"/>
+
+**Lease accounting SaaS** with VP calculation, ROU asset tracking, automatic CP/LP split, and economic index remeasurement.
+
+`FastAPI` `Python` `PostgreSQL` `Stripe` `Firebase` `Cloud Run`
+
+**Impact:** 98% faster per contract · 96% remeasurement accuracy · 3× more contracts managed
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`Controllership Reconciliation`](https://github.com/fernandoxavier02/controllership-reconciliation-showcase)
+
+<img src="https://github.com/fernandoxavier02/controllership-reconciliation-showcase/raw/master/assets/screenshots/01-reconciliation-dashboard.png" width="100%" style="border-radius:8px"/>
+
+**AR/AP reconciliation platform** with 17 analytical dimensions, automated bank reconciliation, ABC curve, and algorithmic risk classification.
+
+`Python` `Pandas` `Angular 17` `Docker` `Multi-bank parsers`
+
+**Impact:** 94% faster reconciliation · 83% fewer unsupported entries · 87% fewer unexplained bank divergences
+
+</td>
+<td width="50%" valign="top">
+
+### [`Brazilian Tax Reform Oracle`](https://github.com/fernandoxavier02/brazilian-tax-reform-oracle-showcase)
+
+<img src="https://github.com/fernandoxavier02/brazilian-tax-reform-oracle-showcase/raw/master/assets/screenshots/01-oracle-chat.png" width="100%" style="border-radius:8px"/>
+
+**RAG system for tax law queries** with local LLM (Llama 3), official source citations, and 100% privacy — zero cloud calls.
+
+`Python` `LangChain` `FAISS` `Llama 3` `Angular 17` `Sentence Transformers`
+
+**Impact:** 92% faster research · 98.7% citation accuracy · 4.8/5.0 user satisfaction
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical Expertise
+## 💼 Professional Background
 
-**AI & Agent Systems**
-`Multi-Agent Orchestration` `LLM Agent Architectures` `Claude Code Plugins` `Claude API / Anthropic SDK` `MCP (Model Context Protocol)` `Prompt Engineering` `Autonomous Workflows`
+### Finance & Controllership
+`IFRS` `US GAAP` `BR GAAP` `Financial Close & Consolidation` `FP&A` `Budgeting & Forecasting` `M&A Due Diligence` `Transfer Pricing` `Internal Controls` `Audit Management` `Revenue Recognition` `Lease Accounting` `Credit Risk`
 
-**MLOps & Predictive Analytics**
-`HuggingFace Transformers` `Embedding Generation (all-MiniLM-L6-v2)` `Vector Indexing (384-dim)` `Cosine Similarity Retrieval` `Graph Search (BFS)` `Offline/Online Inference` `Latency-Constrained ML (<50ms)` `Predictive Financial Analytics` `Regression Models` `Accounting Anomaly Detection` `Revenue & Cash Flow Forecasting` `Scenario Analysis & Stress Testing` `Budget Variance Prediction`
+### AI & Engineering
+`Multi-Agent Orchestration` `LLM Architectures` `RAG Systems` `MCP (Model Context Protocol)` `Prompt Engineering` `Embedding Generation` `Vector Search` `Predictive Analytics` `Anomaly Detection` `Time-Series Forecasting` `Monte Carlo Simulation`
 
-**Development**
-`Node.js` `TypeScript` `Python` `JavaScript` `NestJS` `Angular` `PostgreSQL` `Supabase` `Docker` `CI/CD` `Git/GitHub`
-
-**Enterprise Process Automation**
-`Budget Automation` `Financial Close Orchestration` `Approval Workflows` `ERP/CRM Integration` `Reconciliation Engines` `Operational Process Mapping` `RPA Design`
-
-**Finance & Compliance**
-`IFRS` `US GAAP` `BR GAAP` `Financial Close & Consolidation` `FP&A` `Budgeting & Forecasting` `M&A Due Diligence` `Transfer Pricing` `Internal Controls` `Audit Management`
+### Tech Stack
+`Python` `TypeScript` `Node.js` `NestJS` `Angular` `FastAPI` `PostgreSQL` `Supabase` `Docker` `CI/CD` `Git/GitHub` `Stripe` `Firebase` `Google Cloud Run`
 
 ---
 
-## Philosophy
+## 📊 GitHub Stats
 
-Technology creates value only when it serves real business needs.
+<div align="center">
 
-I build systems that are **technically robust, transparent, and auditable** — whether it's an AI agent routing tasks across 200 tools or a compliance engine handling multi-country IFRS reporting.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fernandoxavier02&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoxavier02&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
-The best solutions sit at the intersection of **domain expertise and engineering craft**.
-
----
-
-## Connect
-
-[![Website](https://img.shields.io/badge/fxstudioai.com-000000?style=flat&logo=google-chrome&logoColor=white)](https://fxstudioai.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fernandoxavier02-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/fernandoxavier02)
-[![GitHub](https://img.shields.io/badge/GitHub-fernandoxavier02-181717?style=flat&logo=github)](https://github.com/fernandoxavier02)
-[![Email](https://img.shields.io/badge/contato@fxstudioai.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contato@fxstudioai.com)
+</div>
 
 ---
 
-*Founder @ [FX Studio AI](https://fxstudioai.com) — Business Automation with AI*
+## 🌐 Connect
+
+<p>
+  <a href="https://fxstudioai.com"><img src="https://img.shields.io/badge/Website-fxstudioai.com-1e3a5f?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/fernandoxavier02"><img src="https://img.shields.io/badge/LinkedIn-fernandoxavier02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:contato@fxstudioai.com"><img src="https://img.shields.io/badge/Email-contato@fxstudioai.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+  <i>Building systems at the intersection of domain expertise and engineering craft.</i>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f766e&height=100&section=footer"/>
