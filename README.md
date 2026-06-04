@@ -69,7 +69,7 @@ Production-grade financial systems rebuilt as public showcases. Each includes ar
 
 ### [`Controllership Reconciliation`](https://github.com/fernandoxavier02/controllership-reconciliation-showcase)
 
-<img src="https://github.com/fernandoxavier02/controllership-reconciliation-showcase/raw/master/assets/screenshots/01-reconciliation-dashboard.png" width="100%" style="border-radius:8px"/>
+<img src="https://github.com/fernandoxavier02/controllership-reconciliation-showcase/raw/master/assets/screenshots/01-dashboard-executivo.png" width="100%" style="border-radius:8px"/>
 
 **AR/AP reconciliation platform** with 17 analytical dimensions, automated bank reconciliation, ABC curve, and algorithmic risk classification.
 
