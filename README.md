@@ -41,7 +41,7 @@ Production-grade financial systems rebuilt as public showcases. Each includes ar
 
 ### [`IFRS 15 Revenue Intelligence`](https://github.com/fernandoxavier02/ifrs15-revenue-intelligence-showcase)
 
-<img src="https://github.com/fernandoxavier02/ifrs15-revenue-intelligence-showcase/raw/master/assets/screenshots/01-revenue-dashboard.png" width="100%" style="border-radius:8px"/>
+<img src="https://github.com/fernandoxavier02/ifrs15-revenue-intelligence-showcase/raw/master/assets/screenshots/01-dashboard-executivo.png" width="100%" style="border-radius:8px"/>
 
 **5-step revenue recognition engine** with SSP allocation, waterfall analytics, and AI-powered natural language queries.
 
