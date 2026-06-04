@@ -54,7 +54,7 @@ Production-grade financial systems rebuilt as public showcases. Each includes ar
 
 ### [`IFRS 16 Lease Intelligence`](https://github.com/fernandoxavier02/ifrs16-lease-intelligence-showcase)
 
-<img src="https://github.com/fernandoxavier02/ifrs16-lease-intelligence-showcase/raw/master/assets/screenshots/01-lease-dashboard.png" width="100%" style="border-radius:8px"/>
+<img src="https://github.com/fernandoxavier02/ifrs16-lease-intelligence-showcase/raw/master/assets/screenshots/01-dashboard-executivo.png" width="100%" style="border-radius:8px"/>
 
 **Lease accounting SaaS** with VP calculation, ROU asset tracking, automatic CP/LP split, and economic index remeasurement.
 
