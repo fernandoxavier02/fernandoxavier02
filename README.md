@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f766e&height=200&section=header&text=Fernando%20Xavier&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Finance%20Executive%20%7C%20AI%20Solutions%20Architect&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f766e&height=200&section=header&text=Fernando%20Xavier&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Head%20of%20Accounting%20%26%20Controlling%20%7C%20AI-Driven%20Finance%20Transformation&descAlignY=55&descSize=16"/>
 
 <!-- Badges -->
 <p>
@@ -24,17 +24,19 @@
 
 ## 👋 About
 
-Finance executive with **15+ years** leading controllership, FP&A, and accounting transformation across Latin America (IFRS, US GAAP, BR GAAP). Now applying that domain expertise to design and ship **AI-powered solutions** for corporate finance — from revenue recognition engines to RAG-based tax research systems.
+Finance executive with **15+ years** leading controllership, consolidation, and FP&A across Latin America — currently **Head of Accounting & Controlling** at the BPO practice of a global Top 10 accounting firm, leading **~100 professionals through 7 direct managers** and serving as primary finance liaison to client CFOs and Big Four auditors. Background spans multi-entity IFRS / US GAAP / BR GAAP close and consolidation, M&A and transfer pricing, and the Regional Controller mandate for a NYSE-listed group across 5 LATAM countries.
 
-> **Currently:** Head of Accounting and Controlling at the BPO practice of a global Top 10 accounting firm — leading ~100 professionals and the firm's AI-driven accounting transformation.  
-> **In parallel:** Building AI-driven finance automation tools.  
-> **Open to:** Finance + AI leadership roles where domain expertise and shipping velocity compound.
+My differentiator is **bringing AI and automation into the finance operation itself** — not as a side project, but as a leadership agenda. I have driven automation that cut manual accounting work by **~70%** and reporting cycles by **~40%** across a multinational client portfolio, and I sit on my firm's national Tax Reform committee and its global Technology Committee for AI initiatives.
+
+> **Currently:** Head of Accounting & Controlling — leading ~100 professionals and the firm's AI-driven accounting transformation.  
+> **Also:** Founder of **FX Studio AI**, where I build the automation tooling behind that agenda.  
+> **Open to:** CFO / Finance Director / Head of Controllership roles with a digital-transformation mandate.
 
 ---
 
 ## 🏆 Featured Work
 
-Production-grade financial systems rebuilt as public showcases. Each includes architecture documentation, sanitized case studies, working prototypes, and synthetically generated UI screenshots (no client data exposed). Deep-dive write-ups of private production work live in [`case-studies`](https://github.com/fernandoxavier02/case-studies).
+Finance transformation initiatives I have **led and directed** — each framed by the business problem it solved and the outcome it delivered. The narrative write-ups (role, decisions, governance, results) live in **[`case-studies`](https://github.com/fernandoxavier02/case-studies)**; the public repositories below are sanitized technical demonstrations of the same domains, built with synthetic data (no client data exposed).
 
 <table>
 <tr>
@@ -99,14 +101,13 @@ Production-grade financial systems rebuilt as public showcases. Each includes ar
 
 ## 💼 Professional Background
 
-### Finance & Controllership
-`IFRS` `US GAAP` `BR GAAP` `Financial Close & Consolidation` `FP&A` `Budgeting & Forecasting` `M&A Due Diligence` `Transfer Pricing` `Internal Controls` `Audit Management` `Revenue Recognition` `Lease Accounting` `Credit Risk`
+### Finance & Leadership *(core)*
+`IFRS` `US GAAP` `BR GAAP` `Financial Close & Consolidation` `FP&A` `Budgeting & Forecasting` `M&A Due Diligence` `Transfer Pricing` `Internal Controls` `Big Four Audit Management` `Revenue Recognition` `Lease Accounting` `Team Leadership (~100 people)` `Pre-Sales & Solution Design`
 
-### AI & Engineering
-`Multi-Agent Orchestration` `LLM Architectures` `RAG Systems` `MCP (Model Context Protocol)` `Prompt Engineering` `Embedding Generation` `Vector Search` `Predictive Analytics` `Anomaly Detection` `Time-Series Forecasting` `Monte Carlo Simulation`
+### AI & Automation *(applied to finance)*
+`Finance Process Automation` `Multi-Agent Orchestration` `RAG for Tax & Accounting Research` `Anomaly Detection` `Predictive Analytics & Forecasting` `Power Automate` `Power BI` `SAP` `MCP (Model Context Protocol)`
 
-### Tech Stack
-`Python` `TypeScript` `Node.js` `NestJS` `Angular` `FastAPI` `PostgreSQL` `Supabase` `Docker` `CI/CD` `Git/GitHub` `Stripe` `Firebase` `Google Cloud Run`
+<sub>Hands-on tooling, for the technically curious: `Python` · `TypeScript` · `FastAPI` · `NestJS` · `Angular` · `PostgreSQL` · `Docker` · `LLMs (incl. local/open-source)`</sub>
 
 ---
 
