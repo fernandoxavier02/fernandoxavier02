@@ -5,9 +5,10 @@
 
 <!-- Badges -->
 <p>
+  <img src="https://img.shields.io/badge/CRC-Certified%20Accountant-1e3a5f?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/ACCA-Cert%20IFR-1e3a5f?style=for-the-badge&logo=acca&logoColor=white"/>
   <img src="https://img.shields.io/badge/CFI-FMVA-0f766e?style=for-the-badge&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MBA-FGV%20Corporate%20Finance-1e3a5f?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MBA-AI%20Solutions%20Engineering%20%C2%B7%20USP%2FEsalq-1e3a5f?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 </p>
 
 <p>
@@ -25,7 +26,7 @@
 
 Finance executive with **15+ years** leading controllership, FP&A, and accounting transformation across Latin America (IFRS, US GAAP, BR GAAP). Now applying that domain expertise to design and ship **AI-powered solutions** for corporate finance — from revenue recognition engines to RAG-based tax research systems.
 
-> **Currently:** Leading accounting transformation at a Big Four BPO practice.  
+> **Currently:** Head of Accounting and Controlling at the BPO practice of a global Top 10 accounting firm — leading ~100 professionals and the firm's AI-driven accounting transformation.  
 > **In parallel:** Building AI-driven finance automation tools.  
 > **Open to:** Finance + AI leadership roles where domain expertise and shipping velocity compound.
 
@@ -33,7 +34,7 @@ Finance executive with **15+ years** leading controllership, FP&A, and accountin
 
 ## 🏆 Featured Work
 
-Production-grade financial systems rebuilt as public showcases. Each includes architecture documentation, case studies, working prototypes, and real UI screenshots.
+Production-grade financial systems rebuilt as public showcases. Each includes architecture documentation, sanitized case studies, working prototypes, and synthetically generated UI screenshots (no client data exposed). Deep-dive write-ups of private production work live in [`case-studies`](https://github.com/fernandoxavier02/case-studies).
 
 <table>
 <tr>
@@ -47,7 +48,7 @@ Production-grade financial systems rebuilt as public showcases. Each includes ar
 
 `NestJS` `Angular 17` `PostgreSQL` `Prisma` `OpenTelemetry`
 
-**Impact:** 70% faster monthly close · 96% error reduction · 7× contract throughput
+**Case-study impact:** 70% faster monthly close · 96% error reduction · 7× contract throughput
 
 </td>
 <td width="50%" valign="top">
@@ -60,7 +61,7 @@ Production-grade financial systems rebuilt as public showcases. Each includes ar
 
 `FastAPI` `Python` `PostgreSQL` `Stripe` `Firebase` `Cloud Run`
 
-**Impact:** 98% faster per contract · 96% remeasurement accuracy · 3× more contracts managed
+**Case-study impact:** 98% faster per contract · 96% remeasurement accuracy · 3× more contracts managed
 
 </td>
 </tr>
@@ -75,7 +76,7 @@ Production-grade financial systems rebuilt as public showcases. Each includes ar
 
 `Python` `Pandas` `Angular 17` `Docker` `Multi-bank parsers`
 
-**Impact:** 94% faster reconciliation · 83% fewer unsupported entries · 87% fewer unexplained bank divergences
+**Case-study impact:** 94% faster reconciliation · 83% fewer unsupported entries · 87% fewer unexplained bank divergences
 
 </td>
 <td width="50%" valign="top">
@@ -88,7 +89,7 @@ Production-grade financial systems rebuilt as public showcases. Each includes ar
 
 `Python` `LangChain` `FAISS` `Llama 3` `Angular 17` `Sentence Transformers`
 
-**Impact:** 92% faster research · 98.7% citation accuracy · 4.8/5.0 user satisfaction
+**Case-study impact:** 92% faster research · 98.7% citation accuracy · 4.8/5.0 user satisfaction
 
 </td>
 </tr>
