@@ -97,6 +97,46 @@ Finance transformation initiatives I have **led and directed** — each framed b
 </tr>
 </table>
 
+### Automation & AI Infrastructure
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### [`Automation Hub`](https://github.com/fernandoxavier02/workflow-automation-showcase)
+
+<img src="https://github.com/fernandoxavier02/workflow-automation-showcase/raw/main/assets/screenshots/01-automation-hub-workflow.png" width="100%" style="border-radius:8px"/>
+
+**Back-office workflow automation** across n8n, Make & Zapier — webhook → transform → route → notify, approval gates, scheduled syncs.
+
+`n8n` `Make` `Zapier` `Python` `Webhooks`
+
+</td>
+<td width="33%" valign="top">
+
+### [`ETL & OCR Pipeline`](https://github.com/fernandoxavier02/document-intelligence-pipeline-showcase)
+
+<img src="https://github.com/fernandoxavier02/document-intelligence-pipeline-showcase/raw/main/assets/screenshots/01-etl-ocr-pipeline-dashboard.png" width="100%" style="border-radius:8px"/>
+
+**Document intelligence pipeline** — OCR, extraction, chunking, embeddings and a medallion data lake (bronze/silver/gold).
+
+`Python` `Tesseract` `Airflow` `FAISS` `MinIO`
+
+</td>
+<td width="33%" valign="top">
+
+### [`FinanceOps Copilot`](https://github.com/fernandoxavier02/erp-finance-ai-agent-showcase)
+
+<img src="https://github.com/fernandoxavier02/erp-finance-ai-agent-showcase/raw/main/assets/screenshots/01-financeops-copilot-dashboard.png" width="100%" style="border-radius:8px"/>
+
+**Local AI agent for finance** — connects ERPs via MCP, RAG over policies, AP & reconciliation automation.
+
+`Python` `MCP` `RAG` `Local LLM` `ERP`
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 💼 Professional Background
